@@ -1,0 +1,14 @@
+
+body{
+    font-family: cursive;
+    background-image: url("../img/papel-pintado-pared.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    color: #ccc;
+    text-align: center;
+    user-select: none;
+}
